@@ -1,4 +1,4 @@
-import { getData, mostrar, obtenerPersonajes } from "/assets/js/functions.js";
+import { getData, mostrar, obtenerPersonajes } from "./functions.js";
 
 const btn1 = document.getElementById("btn1");
 const btn2 = document.getElementById("btn2");
